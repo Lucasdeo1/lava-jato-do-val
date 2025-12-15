@@ -21,7 +21,7 @@ const contactInfo = [
   {
     icon: Clock,
     title: 'Funcionamento',
-    content: 'Seg - sáb: 6:00 - 17:00',
+    content: 'Seg - sáb: 6:00 - 15:00',
   },
   {
     icon: Phone,
