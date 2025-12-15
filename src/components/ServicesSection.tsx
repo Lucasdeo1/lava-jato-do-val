@@ -87,7 +87,7 @@ todos realizados com o mesmo carinho.
                   className="bg-accent hover:bg-accent/90 text-accent-foreground font-semibold"
                 >
                   <a 
-                    href={`https://wa.me/5537988175484?text=Hi! I'm interested in the ${service.title} service.`}
+                    href={`https://wa.me/5537988175484?text=Olá, estou interessado no serviço de ${service.title} .`}
                     target="_blank" 
                     rel="noopener noreferrer"
                     /*className="flex items-center gap-2"*/

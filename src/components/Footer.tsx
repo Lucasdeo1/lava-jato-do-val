@@ -24,8 +24,10 @@ export const Footer = () => {
           {/* Brand */}
           <div className="lg:col-span-2">
             <a href="#home" className="flex items-center gap-2 mb-4">
-              <img src="src\assets\67609497_805699569831417_7303033253336711168_n-removebg-preview.png" alt="" />
-              <span className="font-display font-bold text-xl"></span>
+              <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center">
+                <Droplets className="w-6 h-6 text-primary-foreground" />
+              </div>
+              <span className="font-display font-bold text-xl">Lava Jato do VAL</span>
             </a>
             <p className="text-primary-foreground/70 max-w-md mb-6">
               Serviços de Limpeza automotiva que devolvem o brilho de carro novo.
